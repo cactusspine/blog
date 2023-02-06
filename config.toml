@@ -1,4 +1,4 @@
-baseURL = 'https://cactusspine.github.io'
+baseURL = 'https://cactusspine.github.io/blog/'
 languageCode = 'en-us'
 title = 'cactusspine field'
 theme = 'aether'
